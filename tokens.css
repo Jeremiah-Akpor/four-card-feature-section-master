@@ -1,0 +1,18 @@
+/* tokens.css */
+:root {
+  /* Shared text colors */
+  --color-text: hsl(212, 6%, 44%);
+  --color-heading: hsl(234, 12%, 34%);
+  --color-surface: hsl(0, 0%, 100%);
+
+  /* Individual card accents */
+  --color-supervisor: hsl(180, 62%, 55%);
+  --color-team-builder: hsl(0, 78%, 62%);
+  --color-karma: hsl(34, 97%, 64%);
+  --color-calculator: hsl(212, 86%, 64%);
+
+  /* Shared spacing and shape */
+  --space-card: 1.5625rem;
+  --radius-card: 0.3125rem;
+  --card-shadow: 0 4px 12px rgb(0 0 0 / 10%);
+}
