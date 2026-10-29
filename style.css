@@ -109,7 +109,7 @@ body {
         flex-direction: row;
         justify-content: center;
         align-items: center;
-        gap: 25px;
+        gap: 1.563rem;
         max-width: 70rem;
 
 
@@ -126,7 +126,7 @@ body {
     .two-cards {
         display: flex;
         flex-direction: column;
-        gap: 25px;
+        gap: 1.563rem;
     }
 
 
